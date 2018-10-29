@@ -16,8 +16,8 @@ ssh-add /home/rstudio/.ssh/id_rsa;
 
 
 # set user info
-git config --global user.email "niklasvm@gmail.com";
-git config --global user.name "niklasvm";
+git config --global user.email "email address";
+git config --global user.name "username";
 git config --global core.fileMode false;
 
 # restart rstudio-server
